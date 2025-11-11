@@ -75,3 +75,4 @@ while running:
 
 # Закрываем Pygame корректно
 pygame.quit()
+print(1)
